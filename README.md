@@ -2,14 +2,10 @@
 
 This repository contains a **Hospital Data Analysis** project completed as part of the **30-Days SQL Micro Course**.
 
----
-
 ## 📌 Project Overview
 
 This project focuses on analyzing **hospital patient and doctor data** using SQL.  
 It demonstrates the practical use of SQL for **real-world healthcare datasets**, covering **basic to advanced queries**.
-
----
 
 ## Project Included
 
@@ -20,8 +16,6 @@ It demonstrates the practical use of SQL for **real-world healthcare datasets**,
 - Analytical SQL queries  
 - Real-world reporting scenarios  
 
----
-
 ## SQL Concepts Covered
 
 - Database & table creation  
@@ -30,8 +24,6 @@ It demonstrates the practical use of SQL for **real-world healthcare datasets**,
 - Aggregate functions  
 - Joins  
 - Date & time calculations  
-
----
 
 ## Tools Used
 
